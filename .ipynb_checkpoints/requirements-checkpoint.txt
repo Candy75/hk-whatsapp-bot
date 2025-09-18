@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+yfinance
+pandas
+requests
+tabulate
+feedparser
+python-dotenv
+python-multipart
